@@ -7,9 +7,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.SeekBar;
 import android.widget.TextView;
-
-/* COMMITED ! */
-
 import java.util.zip.Inflater;
 
 public class MainActivity extends AppCompatActivity {
