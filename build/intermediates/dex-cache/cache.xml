@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\NVPACK\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_59a19275c10dc254b592495a32fd93480231d9f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\5c44ce0b26338652daa764de35fac48f777bc173\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_3e93b29af9d24ba90968bd2200d22a96e43f86fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\82c9c5145f39e830cc6f8f7197436ac79a8555b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_c011fe5879703eff48ac4a397fd6ee0bb256af7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\8faf42e3af4e2575957200701e5c3fb2176bcd7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_81851459b1d130b265ac55b2b4054a098d51bbde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\c38035b9fd1ce66380d936636518e4ac42107505\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_6887794b0a0e2b3460f733e5b90e2008e1d7516b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\0e5ae8401c8bc0c47b2309b86d19427158fcd319\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_d1675ccf98575fce56ac9018b4fc1570c7152c9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\baac5ce081cf8e8bdfe999388a73d8e22744674b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_9bf16353f4caf208251d40aedc7f399197bd0c40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\68e8e6310ae06c4d63919420fb933a8ff76e2291\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_08dd7dfb1188ea280dbd96cf9f989eedb647022f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\NVPACK\android-sdk-windows\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ba9e3fc24de9a2c9b442f417934c29c963f56bc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\1fab49900115cab567e68ebd0f1289d9a28e82d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_309c0668e7f72fc1c741c4ce4f9b1f07399d70b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\25d3dd0c154b583b70bb3e1468be43c3e3df2856\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_7c3bf6b406b757da63dc82d6507f090d23cce95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo3\.android\build-cache\197048cfc5c1152071bc469d07f8f338939fb5d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\lenovo3\AndroidStudioProjects\ReijiController\app\build\intermediates\pre-dexed\debug\classes_95fb4fb0112ee6df2bb31b48da1a12eba3df723d.jar" />
+    </item>
+
+</items>
